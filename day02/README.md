@@ -48,4 +48,20 @@ Test4 참고
 
 ### props
 
-Test6,7,8 참고
+Test6,7 참고
+
+### propstype, props 초기값
+
+Test8 참고
+
+### event 처리
+
+Test9 참고
+
+### State
+
+Test10 참고
+
+### State 응용
+
+Test11 참고
