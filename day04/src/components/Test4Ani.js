@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Test4Ani = ({ani, onAni}) => {
     return (
