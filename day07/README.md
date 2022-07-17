@@ -1,6 +1,6 @@
 ### 리액트 7일차
 
-:siblings: 스타일 적용
+:seedling: 스타일 적용
 
   - react-bootstrap // test1
   - material // test2
@@ -8,7 +8,7 @@
   - vs확장 : vscode-styled-components = styled-components css 자동완성기능
   - styled-component와 scss 응용
 <hr>
-:sbilings: 구조
+:seedling: 구조
 
   - 1. css(scss) - 전체 style.css 하나를 만들고 연결 방법 (x)
     2. 폴더별로 컴포넌트분리하고 css각각 컴포넌트별로 만드는것이 좋다
@@ -18,11 +18,11 @@
   - index 처리 export // day07-1 폴더구조 참고
   - export 로 내보내는 컴포넌트는 {} 필요
 <hr>
-:siblings: localStorage
+:seedling: localStorage
 
   - javascript 기능 데이터를 기억해놨다가 불러올 수 있음 => 새로고침시 추가/삭제한 데이터가 초기화되지 않는다. // day07-1 friend 참고
 <hr>
-:siblings: 비동기 처리
+:seedling: 비동기 처리
 
   - fetch
   - axios
