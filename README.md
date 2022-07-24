@@ -91,3 +91,14 @@
   - styled-jsx
   - npm 이나 yarn 으로 설치 후 사용
   - reset.css 적용법 -> https://www.npmjs.com/package/styled-reset
+<hr />
+🌱 route
+  - yarn add react-router-dom 
+  - App을 BrowserRouter로 잡아서 사용
+  - 파일 경로 구조
+  - useParams
+  - useNavigate
+  - BrowserRouter, Routes, Route, Link
+<hr />
+🌱 reducer
+  - 함수 상태관리 ??
