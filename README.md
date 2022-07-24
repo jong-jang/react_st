@@ -101,4 +101,4 @@
   - BrowserRouter, Routes, Route, Link
 <hr />
 🌱 reducer
-  - 함수 상태관리 ??
+  - 함수 상태관리 ?
